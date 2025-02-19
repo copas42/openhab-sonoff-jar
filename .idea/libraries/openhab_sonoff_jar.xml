@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="openhab-sonoff-jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.openhab.binding.sonoff-4.3.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.openhab.binding.sonoff-4.1.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
